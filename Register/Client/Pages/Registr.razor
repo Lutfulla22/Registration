@@ -1,0 +1,33 @@
+﻿@page "/registr"
+@inject IUserService UserService
+
+<h3>Registr</h3>
+
+<EditForm Model="user" OnSubmit="HandleSubmit">
+    <div>
+        <label for="firstname">First Name</label>
+        <InputText id="firstname" @bind-Value="user.Name" class="form-control"></InputText>
+    </div>
+    </EditForm>
+
+@code {
+    [Parameter]
+    public int? Id { get; set; }
+
+    string btnText = string.Empty;
+
+    Users user = new Users { };
+
+    async Task HandleSubmit()
+    {
+        if(Id == null)
+        {
+            await UserService.CreateHero(user);
+        }
+        else
+        {
+            await UserService.CreateHero(user);
+        }
+
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\Register\Register\Shared\bin\Debug\net6.0\Register.Shared.deps.json
+C:\Users\hp\source\repos\Register\Register\Shared\bin\Debug\net6.0\Register.Shared.dll
+C:\Users\hp\source\repos\Register\Register\Shared\bin\Debug\net6.0\Register.Shared.pdb
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.AssemblyInfo.cs
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.dll
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\refint\Register.Shared.dll
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\Register.Shared.pdb
+C:\Users\hp\source\repos\Register\Register\Shared\obj\Debug\net6.0\ref\Register.Shared.dll
